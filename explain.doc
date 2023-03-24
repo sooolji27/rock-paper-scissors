@@ -1,0 +1,4 @@
+This code allows the user to play a game of rock-paper-scissors against the computer. The get_choices() function prompts the user to select a choice and generates 
+a random choice for the computer. The function returns a dictionary containing the player's choice and the computer's choice. The check_win() function takes the 
+player's choice and the computer's choice as arguments and determines the winner of the game. The function prints out the result of the game. At the end of the code,
+the get_choices() function is called to get the player's choice and the computer's choice, and the check_win() function is called to determine the winner of the game.
