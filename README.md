@@ -1,2 +1,1 @@
-Rock-paper-scissors game where you play against the computer:
-
+Rock-paper-scissors game where you play against the computer.
